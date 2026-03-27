@@ -1,8 +1,5 @@
 # Smart Procurement Vendor Management System
 
-**⚠️ CONFIDENTIAL - PRIVATE REPOSITORY**
-
-This is a private enterprise application for internal use only.
 
 ---
 
